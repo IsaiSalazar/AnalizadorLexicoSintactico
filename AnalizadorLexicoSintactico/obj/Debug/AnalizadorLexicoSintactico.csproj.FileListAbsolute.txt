@@ -1,0 +1,49 @@
+C:\Users\Usuario\source\repos\AnalizadorLexicoSintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe.config
+C:\Users\Usuario\source\repos\AnalizadorLexicoSintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Usuario\source\repos\AnalizadorLexicoSintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Usuario\source\repos\AnalizadorLexicoSintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AnalizadorLexicoSintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Form1.resources
+C:\Users\Usuario\source\repos\AnalizadorLexicoSintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Properties.Resources.resources
+C:\Users\Usuario\source\repos\AnalizadorLexicoSintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\AnalizadorLexicoSintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Usuario\source\repos\AnalizadorLexicoSintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Usuario\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe.config
+C:\Users\Usuario\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Usuario\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Usuario\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Form1.resources
+C:\Users\Usuario\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Usuario\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Ulises\Desktop\Trabajo Compi\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe.config
+C:\Users\Ulises\Desktop\Trabajo Compi\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Ulises\Desktop\Trabajo Compi\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Ulises\Desktop\Trabajo Compi\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Ulises\Desktop\Trabajo Compi\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Ulises\Desktop\Trabajo Compi\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csprojResolveAssemblyReference.cache
+C:\Users\Ulises\Desktop\Trabajo Compi\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Form1.resources
+C:\Users\Ulises\Desktop\Trabajo Compi\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Properties.Resources.resources
+C:\Users\Ulises\Desktop\Trabajo Compi\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csproj.GenerateResource.Cache
+C:\Users\Ulises\Documents\Ulises\Compiladores A\Analizador-Lexico-Sintactico-master\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe.config
+C:\Users\Ulises\Documents\Ulises\Compiladores A\Analizador-Lexico-Sintactico-master\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Ulises\Documents\Ulises\Compiladores A\Analizador-Lexico-Sintactico-master\Analizador-Lexico-Sintactico-master\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Ulises\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe.config
+C:\Users\Ulises\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Ulises\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Ulises\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Form1.resources
+C:\Users\Ulises\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Properties.Resources.resources
+C:\Users\Ulises\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csproj.GenerateResource.Cache
+C:\Users\Ulises\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Ulises\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Ulises\Documents\GitHub\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csprojResolveAssemblyReference.cache
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe.config
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\bin\Debug\AnalizadorLexicoSintactico.pdb
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csprojAssemblyReference.cache
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Form1.resources
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.Properties.Resources.resources
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csproj.GenerateResource.cache
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.csproj.CoreCompileInputs.cache
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.exe
+C:\Users\Isai\Source\Repos\UlisesCamacho\Analizador-Lexico-Sintactico\AnalizadorLexicoSintactico\obj\Debug\AnalizadorLexicoSintactico.pdb
